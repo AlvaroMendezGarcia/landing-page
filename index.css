@@ -1,8 +1,27 @@
+header{
+    background-color: greenyellow;
+}
+
+.titulo{
+    text-align: center;
+}
+.subtitulo{
+    text-align: center;
+}
 .amarillo{ 
     background-color: yellow;
 } 
-.imagen{ 
-
-    
+.parrafo{
+    text-align: center;
+}
+.imagen{
+    text-align: center;
     background-color: aqua;
+}
+.ordenador{
+    width: 500px;
+    ;
+}
+.ultimo{
+    text-align: center;
 }
