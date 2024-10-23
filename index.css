@@ -1,26 +1,43 @@
+:root {
+    --white: #FFFFFF;
+    --dark: #212121;
+    --primary: #0097A7;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
 header{
-    background-color: greenyellow;
+    background-color: var(--primary);
+    text-align: center;
 }
 
 .titulo{
     text-align: center;
+    color: var(--white);
 }
+
 .subtitulo{
     text-align: center;
+    color: var(--white);
 }
-.amarillo{ 
-    background-color: yellow;
-} 
+
 .parrafo{
     text-align: center;
 }
+
 .imagen{
     text-align: center;
-    background-color: aqua;
+    background-color: var(--primary);
 }
 .ordenador{
     width: 500px;
-    ;
 }
 .ultimo{
     text-align: center;
