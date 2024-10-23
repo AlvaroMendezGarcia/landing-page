@@ -1,2 +1,2 @@
 # landing-page
-hola soy alvaro
+Hola soy Álvaro
