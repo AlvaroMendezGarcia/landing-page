@@ -1,0 +1,58 @@
+:root {
+    --white: #FFFFFF;
+    --dark: #212121;
+    --primary: #0097A7;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.header {
+    padding: 1rem;
+    background-color: var(--primary);
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.titulo {
+    margin: 0;
+    text-align: center;
+    color: var(--white);
+}
+
+.subtitulo {
+    text-align: center;
+    color: var(--white);
+    margin-bottom: 1rem;
+}
+
+.content {
+    margin-bottom: 3.5rem;
+}
+
+.parrafo{
+    text-align: center;
+}
+
+.imagen {
+    text-align: center;
+}
+.ordenador{
+    width: 500px;
+}
+.footer {
+    padding: 3rem;
+    background-color: var(--primary);
+}
+
+.ultimo {
+    color: white;
+    text-align: center;
+    margin: 0;
+}
