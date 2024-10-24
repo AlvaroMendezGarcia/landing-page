@@ -55,7 +55,13 @@ body {
 }
 
 .tabla div {
+    width: 50rem;
     text-align: center;
+}
+
+.tabla img {
+    width: 50rem;
+    height: 30rem;
 }
 
 .footer {
