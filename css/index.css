@@ -43,9 +43,21 @@ body {
 .imagen {
     text-align: center;
 }
+
 .ordenador{
     width: 500px;
 }
+
+.tabla {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tabla div {
+    text-align: center;
+}
+
 .footer {
     padding: 3rem;
     background-color: var(--primary);
