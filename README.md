@@ -1,2 +1,2 @@
 # landing-page
-Hola soy Álvaro
+Esto es una página de prueba
