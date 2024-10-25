@@ -20,13 +20,13 @@ body {
     margin-bottom: 2.5rem;
 }
 
-.titulo {
+.title {
     margin: 0;
     text-align: center;
     color: var(--white);
 }
 
-.subtitulo {
+.subtitle {
     text-align: center;
     color: var(--white);
     margin-bottom: 1rem;
@@ -36,30 +36,22 @@ body {
     margin-bottom: 3.5rem;
 }
 
-.parrafo{
+.text{
     text-align: center;
 }
 
-.imagen {
-    text-align: center;
-}
-
-.ordenador{
-    width: 500px;
-}
-
-.tabla {
+.table {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
 }
 
-.tabla div {
+.table div {
     width: 50rem;
     text-align: center;
 }
 
-.tabla img {
+.table img {
     width: 50rem;
     height: 30rem;
 }
@@ -69,7 +61,7 @@ body {
     background-color: var(--primary);
 }
 
-.ultimo {
+.last {
     color: white;
     text-align: center;
     margin: 0;
